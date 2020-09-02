@@ -1,0 +1,22 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "python",
+				"tag": "3.6-stretch",
+				"digest": "56d466e968b432a4747ba50253f40aab3c722fb2f3a31ae6de62e3a869b14960"
+			}
+		]
+	},
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "python",
+				"tag": "3.6-stretch",
+				"digest": "56d466e968b432a4747ba50253f40aab3c722fb2f3a31ae6de62e3a869b14960",
+				"serviceName": "deepneuro",
+				"dockerfile": "Dockerfile"
+			}
+		]
+	}
+}
