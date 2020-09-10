@@ -4,7 +4,7 @@
 			{
 				"name": "python",
 				"tag": "3.6-stretch",
-				"digest": "b391b142a2dc3abafb5fce341bef9b9b6b89b0a55371c9d7e7c3980d6291f7ea"
+				"digest": "1388e0cf737b48c9b8dbef8d1229a710201ed856626c47068e7cbc4c73a96052"
 			}
 		]
 	},
@@ -13,7 +13,7 @@
 			{
 				"name": "python",
 				"tag": "3.6-stretch",
-				"digest": "b391b142a2dc3abafb5fce341bef9b9b6b89b0a55371c9d7e7c3980d6291f7ea",
+				"digest": "1388e0cf737b48c9b8dbef8d1229a710201ed856626c47068e7cbc4c73a96052",
 				"serviceName": "deepneuro",
 				"dockerfile": "Dockerfile"
 			}
