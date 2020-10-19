@@ -14,8 +14,8 @@
 				"name": "python",
 				"tag": "3.6-stretch",
 				"digest": "ea325499ddad825e2aa2b3e07f160b6be4334fed182d002110eecaae086482f3",
-				"serviceName": "deepneuro",
-				"dockerfile": "Dockerfile"
+				"dockerfile": "Dockerfile",
+				"service": "deepneuro"
 			}
 		]
 	}
