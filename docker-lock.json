@@ -1,22 +1,22 @@
 {
-	"dockerfiles": {
-		"Dockerfile": [
-			{
-				"name": "python",
-				"tag": "3.6-stretch",
-				"digest": "4d9d4ad6f8cda9df9be1acbfcef24331034e91584f90a8685f7602be22b96ebb"
-			}
-		]
-	},
-	"composefiles": {
-		"docker-compose.yml": [
-			{
-				"name": "python",
-				"tag": "3.6-stretch",
-				"digest": "4d9d4ad6f8cda9df9be1acbfcef24331034e91584f90a8685f7602be22b96ebb",
-				"dockerfile": "Dockerfile",
-				"service": "deepneuro"
-			}
-		]
-	}
+  "dockerfiles": {
+    "Dockerfile": [
+      {
+        "name": "python",
+        "tag": "3.6-stretch",
+        "digest": "4d9d4ad6f8cda9df9be1acbfcef24331034e91584f90a8685f7602be22b96ebb"
+      }
+    ]
+  },
+  "composefiles": {
+    "docker-compose.yml": [
+      {
+        "name": "python",
+        "tag": "3.6-stretch",
+        "digest": "4d9d4ad6f8cda9df9be1acbfcef24331034e91584f90a8685f7602be22b96ebb",
+        "dockerfile": "Dockerfile",
+        "service": "deepneuro"
+      }
+    ]
+  }
 }
